@@ -1,0 +1,57 @@
+.footer {  
+    bottom: 0; 
+    left: 0; 
+    z-index: 10;
+}
+
+.header {  
+    padding-top: 13px;
+    padding-left: 14px;
+}
+
+#copywrite {  
+    font-family: "Noto Sans Mono", "Noto Sans", sans-serif;
+    font-size: 13px;
+    padding-top: 50px;
+}
+
+#maintext {  
+  font-family: "Noto Sans Mono", "Noto Sans", sans-serif;
+  font-size: 20px;
+  padding-bottom: 50px;
+}
+
+#literature {  
+  font-family: "Noto Sans Mono", "Noto Sans", sans-serif;
+  font-size: 15px;
+  padding-bottom: 5px;
+}
+
+
+a:link {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:visited {
+    color: black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  a:hover {
+    color: rgb(0, 225, 255);
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+button {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  font-size: 24px;
+  color: rgb(0, 0, 0);
+}
